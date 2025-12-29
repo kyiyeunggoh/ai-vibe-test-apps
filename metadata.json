@@ -1,0 +1,7 @@
+{
+  "name": "JimBro - Friendly Fitness for Everyone",
+  "description": "An emotionally intelligent fitness app that adapts workouts to your mood, equipment, and safety needs, focusing on teens, parents, and the elderly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
